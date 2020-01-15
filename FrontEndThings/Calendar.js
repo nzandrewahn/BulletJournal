@@ -16,8 +16,6 @@ console.log(DaysInMonth(month,year));
 
 
 
-
-
 // Sees how many days are in the month of any given month and year
 function DaysInMonth(month,year){
     // Returns 31 days if there are 31 days in the month
